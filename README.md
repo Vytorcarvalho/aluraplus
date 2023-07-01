@@ -1,12 +1,15 @@
 # aluraplus
 https://aluraplus-sooty-rho.vercel.app/
 
-##Ferramentas utilizadas:
-HTML
+## Ferramentas utilizadas:
 
-CSS
+* HTML
 
-Flex-box
+* CSS
 
-Feito por: Vytor Carvalho
+* Flex-box
+
+## Feito por: Vytor Carvalho
+
 Linkedin:https://www.linkedin.com/in/vytor-carvalho-b50135272/
+

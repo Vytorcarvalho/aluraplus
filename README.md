@@ -1,7 +1,7 @@
 # aluraplus
 https://aluraplus-sooty-rho.vercel.app/
 
-Ferramentas utilizadas:
+##Ferramentas utilizadas:
 HTML
 
 CSS

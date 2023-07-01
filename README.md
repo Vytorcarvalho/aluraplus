@@ -1,5 +1,6 @@
 # aluraplus
 https://aluraplus-sooty-rho.vercel.app/
+
 Ferramentas utilizadas:
 HTML
 

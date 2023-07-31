@@ -1,7 +1,7 @@
 # aluraplus
-Primeiro portfolio baseado no conhecimentosdesenvolvidos com os cursos de HTML e CSS da Alura
+Projeto desenvolvido com os cursos de HTML e CSS da Alura
  Portfólio 
- Olá, Bem vindo ao meu projeto de portfólio.
+ Olá, Bem vindo ao meu projeto de portfólio. O alura plus é a criação de uma pagina de vendas utilizando o material passado pelo curso
 
 https://aluraplus-sooty-rho.vercel.app/
 

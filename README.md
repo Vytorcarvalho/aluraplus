@@ -1,7 +1,6 @@
 # aluraplus
 Projeto desenvolvido com os cursos de HTML e CSS da Alura
- Portfólio 
- Olá, Bem vindo ao meu projeto de portfólio. O alura plus é a criação de uma pagina de vendas utilizando o material passado pelo curso
+ Olá, Bem vindo ao meu projeto de Pagina de Vendas. O alura plus é a criação de uma pagina de vendas utilizando o material passado pelo curso
 
 https://aluraplus-sooty-rho.vercel.app/
 
